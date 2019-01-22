@@ -1,5 +1,3 @@
-package planegeometrycalculator;
-
 import java.util.Scanner;
 
 public class PlaneGeometryCalculator {
