@@ -6,5 +6,6 @@ public static void main(String args[]) {
 	System.out.println("Nyoba tambah lagi");
 	System.out.println("Eaaa")
 	System.out.println("qwe");
+	System.out.println("asdfg");
 	}
 }
